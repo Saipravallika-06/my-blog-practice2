@@ -1,4 +1,15 @@
 body {
+<<<<<<< HEAD
+  background: #121212;
+  color: #e0e0e0;
+}
+
+.subscribe-button {
+  background: #1f1f1f;
+  color: #e0e0e0;
+  padding: 8px 16px;
+  border: 1px solid #444;
+=======
   background: #fff;
   color: #000;
 }
@@ -8,9 +19,14 @@ body {
   color: #000;
   padding: 8px 16px;
   border: 1px solid #ccc;
+>>>>>>> origin/main
   cursor: pointer;
 }
 
 .subscribe-button:hover {
+<<<<<<< HEAD
+  background: #2a2a2a;
+=======
   background: #e0e0e0;
+>>>>>>> origin/main
 }
